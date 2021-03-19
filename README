@@ -1,4 +1,4 @@
-Pairwise Adjusted Mutual Information
+# Pairwise Adjusted Mutual Information
 
 This supplementary material contains all codes and datasets necessary to reproduce the experiments of the paper.
 Python >= 3.7 is required.
